@@ -1,0 +1,6 @@
+twitch API url
+https://api.twitch.tv/kraken/users/44322889?client_id=un87gjd72fqnrwbtt9d6g17ux03sj3
+
+https://api.twitch.tv/kraken/streams?channel=ESL_SC2,OgamingSC2cretetion,freecodecamp,storbeck,habathcx,RobotCaleb,noobs2ninjas&client_id=un87gjd72fqnrwbtt9d6g17ux03sj3
+
+cretetion,freecodecamp,storbeck,habathcx,RobotCaleb,noobs2ninjas
